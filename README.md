@@ -9,7 +9,8 @@
 
 ## Work Experience
 **Operations Project Manager (Data Analytics & Reporting)**
-*Audience Rewards (_January 2024 - Present_)*
+
+**Audience Rewards (_January 2024 - Present_)**
 - Ensured with 99% accuracy members earned eligible bonus points based on spend criteria on a weekly basis
 - ETL, cleaning & processing member transactions to provide data for decision processes
 - Developed and documented SOPs for company wide digital playbook
