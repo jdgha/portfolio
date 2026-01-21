@@ -19,6 +19,13 @@
 - Managed the launch of the Official Tony Awards Challenge with no negative impact to user experience year over year
 
 ## Projects
+### [Bonus Audit](https://github.com/jdgha/portfolio/blob/main/BonusAudit.ipynb)
+Weekly task to catch bonus build or programming errors combining three documents:
+- Manually edited google sheet (regularly updated)
+- Sales data (pulled from databricks
+- An existing excel output file to track the outcome of this audit - in this file exists additional formulas to calculate accuracy. This file is manually updated with accurate data from the above google sheet to ensure up to date data on a weekly basis
+Notebook provides code for date/time format to prevent errors, files to data frames, row indexing to separate shows by name, etc. Show names and associated bonuses are added to the existing excel document manually for the code to paste starting in the correct locations, as well as create a summary of an error count (on each tab and into a new "summary" tab) to be manually checked after the notebook runs. Moving this process from manual to a notebook shortened the time needed to about 1/6th.
+
 ### [Bonus Analysis](https://github.com/jdgha/portfolio/blob/main/BonusAnylsis.ipynb)
 
 Ad hoc request from the marketing team to provide analysis of bonus performance. Differing amounts of bonus points are awarded to members based on purchase criteria (start date, end date, time, minimum price, maximum price, etc.) and performance criteria (start date, end date, valid days of the week, blackout dates, etc.). Request could come in after bonus purchase window has closed (full analysis) or during the purchase window (partial analysis). Notebook provides summary of average ticket price, yield of ticket price over industry average, total bonus sales, cost to the buyer (based on rates of main loyalty currency and partner points currency) (total sales - cost = ROI), and additional days of the week included at the bottom of the analysis to track trends during days of the week if applicable. 
