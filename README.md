@@ -24,7 +24,7 @@ Weekly task to catch bonus build or programming errors combining three documents
 - Manually edited google sheet (regularly updated)
 - Sales data (pulled from databricks
 - An existing excel output file to track the outcome of this audit - in this file exists additional formulas to calculate accuracy. This file is manually updated with accurate data from the above google sheet to ensure up to date data on a weekly basis
-
+</br>
 Notebook provides code for date/time format to prevent errors, files to data frames, row indexing to separate shows by name, etc. Show names and associated bonuses are added to the existing excel document manually for the code to paste starting in the correct locations, as well as create a summary of an error count (on each tab and into a new "summary" tab) to be manually checked after the notebook runs. Moving this process from manual to a notebook shortened the time needed to about 1/6th.
 
 ### [Bonus Analysis](https://github.com/jdgha/portfolio/blob/main/BonusAnylsis.ipynb)
