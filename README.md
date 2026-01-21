@@ -18,6 +18,16 @@
 - Led process improvements and project management initiatives using data-driven decision-making and performance analysis.
 - Managed the launch of the Official Tony Awards Challenge with no negative impact to user experience year over year
 
+**Clinic Launch Manager (Technical Operations & Data Quality)<br>Bond Vet (_March 2021 - September 2023_)**
+- Led the launch of over 10 veterinary clinics in a time-critical, high-stakes operational
+environment, serving as the primary escalation point during go-live weeks.
+- Built and standardized SOPs for the clinic launch process and introduced dashboards to
+track readiness, execution, and post-launch issues.
+- Improved launch execution by making processes more predictable and less error-prone
+through data-driven visibility and operational refinement.
+- Managed external vendors during launch and coordinated cross-functionally with Real
+Estate, Facilities, Design, Marketing, HR, Legal, Product/Tech, and executive leadership.
+
 ## Projects
 ### [Bonus Audit](https://github.com/jdgha/portfolio/blob/main/BonusAudit.ipynb)
 Weekly task to capture bonus build or programming errors. Combines three documents:
