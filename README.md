@@ -22,7 +22,7 @@
 
 ## Projects
 ### [Bonus Audit](https://github.com/jdgha/portfolio/blob/main/BonusAudit.ipynb)
-Weekly task to catch bonus build or programming errors combining three documents:
+Weekly task to capture bonus build or programming errors. Combines three documents:
 1. Manually edited google sheet (regularly updated)
 2. Sales data (pulled from databricks
 3. An existing excel output file to track the outcome of this audit - in this file exists additional formulas to calculate accuracy. This file is manually updated with accurate data from the above google sheet to ensure up to date data on a weekly basis
