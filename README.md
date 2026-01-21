@@ -18,7 +18,7 @@
 - Led process improvements and project management initiatives using data-driven decision-making and performance analysis.
 - Managed the launch of the Official Tony Awards Challenge with no negative impact to user experience year over year
 
-**Clinic Launch Manager (Technical Operations & Data Quality)<br>Bond Vet (_March 2021 - September 2023_)**
+**Clinic Launch Manager (Technical Operations & Data Quality)<br/>Bond Vet (_March 2021 - September 2023_)**
 - Led the launch of over 10 veterinary clinics in a time-critical, high-stakes operational
 environment, serving as the primary escalation point during go-live weeks.
 - Built and standardized SOPs for the clinic launch process and introduced dashboards to
