@@ -3,30 +3,29 @@
 #### Technical Skills: Python, SQL, Data Analysis, Data Visualization, R, JavaScript, CSS, HTML, Pandas, Matplotlib, Seaborn, Tableau, Project Management, Product Management, Problem Solving, Fast Paced Detail Oriented Multitasking
 
 ## Education
+-CodeCademy - Data Scientist: Analytics
 - CodeCademy - Business Intelligence Data Analyst Certificate
 - Google - Data Analytics Career Certificate
 - B.A., Sociology - Hiram College
 
 ## Work Experience
 **Operations Project Manager (Data Analytics & Reporting)<br/>Audience Rewards (_January 2024 - Present_)**
-- Ensured with 99% accuracy members earned eligible bonus points based on spend criteria on a weekly basis
-- ETL, cleaning & processing member transactions to provide data for decision processes
-- Developed and documented SOPs for company wide digital playbook
-- Successfully migrated 5 million+ members to a new third party front and backend platform
-- Launched product improvements enabling cross functional teams to enhance the customer experience without increasing workload
-- Overhauled and maintained a company wide Jira - effectively alleviating 90%+ tech debt
-- Led process improvements and project management initiatives using data-driven decision-making and performance analysis.
-- Managed the launch of the Official Tony Awards Challenge with no negative impact to user experience year over year
+- Own production data validation across customer transactions, loyalty points, and partner data feeds.
+- Investigated and corrected 1M+ missing loyalty points by analyzing transactional discrepancies using Python, mitigating financial and customer impact.
+- Perform ad hoc and recurring analyses on sales, bonus incentives, and customer behavior to support operational and leadership decisions.
+- Analyze marketing A/B test results to evaluate performance and inform campaign adjustments.
+- Partner with engineering and data leadership to troubleshoot pipeline and reporting inconsistencies.
+- Build Python notebooks to automate recurring reconciliation tasks and reduce manual effort.
+- Serve as Jira administrator, redesigning workflows and improving issue visibility across technical teams.
+- In addition to core responsibilities, regularly support the Data function with ad hoc analysis, validation, and reconciliation initiatives
+
 
 **Clinic Launch Manager (Technical Operations & Data Quality)<br/>Bond Vet (_March 2021 - September 2023_)**
-- Led the launch of over 10 veterinary clinics in a time-critical, high-stakes operational
-environment, serving as the primary escalation point during go-live weeks.
-- Built and standardized SOPs for the clinic launch process and introduced dashboards to
-track readiness, execution, and post-launch issues.
-- Improved launch execution by making processes more predictable and less error-prone
-through data-driven visibility and operational refinement.
-- Managed external vendors during launch and coordinated cross-functionally with Real
-Estate, Facilities, Design, Marketing, HR, Legal, Product/Tech, and executive leadership.
+- Led 10+ operational launches, tracking KPIs and post-launch performance metrics.
+- Built dashboards to monitor execution, issue trends, and financial performance indicators.
+- Conducted root cause analysis on operational bottlenecks and implemented process improvements.
+- Coordinated cross-functionally with Product/Tech, Finance, Marketing, HR, and executive teams.
+
 
 ## Projects
 ### [Bonus Audit](https://github.com/jdgha/portfolio/blob/main/BonusAudit.ipynb)
