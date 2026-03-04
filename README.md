@@ -10,12 +10,12 @@
 
 ## Work Experience
 **Operations Project Manager (Data Analytics & Reporting)<br/>Audience Rewards (_January 2024 - Present_)**
-- Own production data validation across customer transactions, loyalty points, and partner data feeds.
 - Investigated and corrected 1M+ missing loyalty points by analyzing transactional discrepancies using Python, mitigating financial and customer impact.
+- Build Python notebooks to automate recurring reconciliation tasks and reduce manual effort.
+- Own production data validation across customer transactions, loyalty points, and partner data feeds.
 - Perform ad hoc and recurring analyses on sales, bonus incentives, and customer behavior to support operational and leadership decisions.
 - Analyze marketing A/B test results to evaluate performance and inform campaign adjustments.
 - Partner with engineering and data leadership to troubleshoot pipeline and reporting inconsistencies.
-- Build Python notebooks to automate recurring reconciliation tasks and reduce manual effort.
 - Serve as Jira administrator, redesigning workflows and improving issue visibility across technical teams.
 - In addition to core responsibilities, regularly support the Data function with ad hoc analysis, validation, and reconciliation initiatives
 
