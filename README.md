@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, Data Analysis, Data Visualization, R, JavaScript, CSS, HTML, Pandas, Matplotlib, Seaborn, Tableau, Project Management, Product Management, Problem Solving, Fast Paced Detail Oriented Multitasking
 
 ## Education
--CodeCademy - Data Scientist: Analytics
+- CodeCademy - Data Scientist: Analytics
 - CodeCademy - Business Intelligence Data Analyst Certificate
 - Google - Data Analytics Career Certificate
 - B.A., Sociology - Hiram College
