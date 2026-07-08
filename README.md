@@ -46,6 +46,7 @@ Jupyter
 - Error summaries
 - Summary tab generation
 - Formula preservation
+
 #### Outcome
 Reduced weekly processing time by approximately 83% while improving consistency and reducing manual errors.
 
@@ -64,5 +65,6 @@ Jupyter
 - Reindexing days for sales counts by date
 - Branded summary sheet generation
 - Reusable/improvable code when internal changes are made or external factors cause error
+
 #### Outcome
 Reduced manual processing time, inconsistency and errors.
