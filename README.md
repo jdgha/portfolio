@@ -18,14 +18,14 @@ Jupyter Notebooks | JavaScript | CSS | HTML
 - B.A., Sociology - Hiram College
 
 ## Work Experience
-**Operations Project Manager (Data Analytics & Reporting)<br/>Audience Rewards (_January 2024 - Present_)**
+**Operations Project Manager<br/>Audience Rewards (_January 2024 - Present_)**
 - Lead weekly validation across 35K-200K+ customer transactions, loyalty points, and 50+ partner data pipelines to ensure reporting integrity and reduce financial risk.
 - Developed Python automation tools that reduced weekly reconciliation time by 80%, standardized validation workflows and significantly decreased manual effort.
 - Investigated and corrected 1M+ missing loyalty points by analyzing transactional discrepancies using Python, mitigating financial and customer impact.
 - Perform weekly and ad hoc analyses of sales, customer behavior, and promotional performance to support operational planning and business decisions.
 - Provide analytical support for marketing experiments by delivering campaign performance data that informs promotional strategy and business decisions.
 
-**Clinic Launch Manager (Technical Operations & Data Quality)<br/>Bond Vet (_March 2021 - September 2023_)**
+**Clinic Launch Manager<br/>Bond Vet (_March 2021 - September 2023_)**
 - Led on-time operational launches for 10+ new veterinary clinics, coordinating 5-10 cross-functional team members monitoring and multiple external partners while monitoring KPIs and post-launch performance.
 - Developed operational dashboards used by 10+ stakeholders to monitor execution, issue trends, and financial performance metrics.
 - Conducted root cause analysis on operational bottlenecks and implemented process improvements.
