@@ -3,13 +3,13 @@ I specialize in improving operational systems through automation, data analysis,
 
 ### Technical Skills
 #### Languages
-Python | SQL | R
+Python • SQL • R
 #### Libraries
-Pandas | Matplotlib | Seaborn
+Pandas • Matplotlib • Seaborn
 #### Visualization & Reporting
-Tableau | Excel | Google Sheets
+Tableau • Excel • Google Sheets
 #### Other
-Jupyter Notebooks | JavaScript | CSS | HTML
+Jupyter Notebooks • JavaScript • CSS • HTML
 
 ## Education
 - CodeCademy - Business Intelligence Data Analyst Certificate
