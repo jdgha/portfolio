@@ -1,5 +1,5 @@
 ## About
-I specialize in improving operational systems through automation, data analysis, and process optimization. My work focuses on building practical solutions that reduce manual effort, improve data quality, and support better operational decision-making. This prtfolio highlights real-world automation and analytics projects developed to solve operational business problems.
+I specialize in improving operational systems through automation, data analysis, and process optimization. My work focuses on building practical, reusable solutions that reduce manual effort, improve data quality, and support better operational decision-making. This portfolio highlights real-world automation and analytics projects developed to solve operational business problems.
 
 ### Technical Skills
 #### Languages
@@ -34,8 +34,8 @@ Jupyter Notebooks | JavaScript | CSS | HTML
 ### [Operational Reconciliation Automation](https://github.com/jdgha/portfolio/blob/main/BonusAudit.ipynb)
 #### Business Problem
 The weekly reconciliation process required manually comparing multiple operational data sets, validating promotional programming, and updating Excel audit workbooks. The process consumed over three hours each week and relied on repetitive manual work.
-#### Solution
-Designed and built a reusable Python automation that integrated Databricks exports, Google Sheets, and existing Excel workbooks into a standardized reconsiliation workflow.
+#### Approach
+Designed and built a reusable Python automation that integrated Databricks exports, Google Sheets, and existing Excel workbooks into a standardized reconciliation workflow.
 #### Technologies
 Python
 Pandas
@@ -51,15 +51,15 @@ Jupyter
 - Reusable workflow
 
 #### Business Impact
-Reduced weekly processing time by approximately 83%
-Standardized validation across recurring audits
-Improved reporting consistency
-Reduced manual effort
+- Reduced weekly processing time by approximately 83%
+- Standardized validation across recurring audits
+- Improved reporting consistency
+- Reduced manual effort
 
 ### [Promotional Performance Analytics](https://github.com/jdgha/portfolio/blob/main/BonusAnylsis.ipynb)
 #### Business Problem
-Marketing needed timely insight into promotional campaign performance, sustomer purchasing behavior, and campaign profitability in order to evaluate future promotional strategy.
-#### Solution
+Marketing needed timely insight into promotional campaign performance, customer purchasing behavior, and campaign profitability in order to evaluate future promotional strategy.
+#### Approach
 Developed a reusable Python analytics tool that transforms raw transaction data into business ready reporting including ROI calculations, ticket yield analysis, average ticket price, purchase trends, and campaign summaries.
 #### Technologies
 Python
@@ -72,18 +72,18 @@ Jupyter
 - Utilize internal price structures to calculate cost based on points
 - Reindexing days for day-of-week trend analysis
 - Branded summary generation
-- Reusable framework
+- Reusable analysis template
 
 #### Business Impact
-Utilized over 200 times in calendar year to support promotional analysis
-Reduced manual reporting effort
-Standardized campaign evaluation
-Improved turn around time for marketing requests
+- Utilized more than 200 times in calendar year to support promotional analysis
+- Reduced manual reporting effort
+- Standardized campaign evaluation
+- Improved turnaround time for marketing requests
 
 ## How I Approach Problems
 When approaching an operational challenge, I generally follow the same process:
-1. Take a step back to understand the full picture
-2. Identify inefficiencies in manual time or bottlenecks
+1. Understand the business problem
+2. Identify inefficiencies, repetitive manual work, and process bottlenecks
 3. Validate data quality before building reports
 4. Develop reusable solutions that minimize maintenance
-5. Measure the operational impact through time saved, improved consistency, and/or better decision making
+5. Measure the operational impact through time saved, consistency, and improved business decisions
