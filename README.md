@@ -31,7 +31,7 @@ Jupyter Notebooks • JavaScript • CSS • HTML
 - Conducted root cause analysis on operational bottlenecks and implemented process improvements.
 
 ## Projects
-### [Operational Reconciliation Automation](https://github.com/jdgha/portfolio/blob/main/BonusAudit.ipynb)
+### [Operational Reconciliation Automation](https://github.com/jdgha/portfolio/blob/main/OperationalReconciliationAutomation.ipynb)
 #### Business Problem
 The weekly reconciliation process required manually comparing multiple operational data sets, validating promotional programming, and updating Excel audit workbooks. The process consumed over three hours each week and relied on repetitive manual work.
 #### Approach
@@ -56,7 +56,7 @@ Jupyter
 - Improved reporting consistency
 - Reduced manual effort
 
-### [Promotional Performance Analytics](https://github.com/jdgha/portfolio/blob/main/BonusAnylsis.ipynb)
+### [Promotional Performance Analytics](https://github.com/jdgha/portfolio/blob/main/PromotionalPerformanceAnalytics.ipynb)
 #### Business Problem
 Marketing needed timely insight into promotional campaign performance, customer purchasing behavior, and campaign profitability in order to evaluate future promotional strategy.
 #### Approach
